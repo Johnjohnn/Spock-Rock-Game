@@ -64,6 +64,9 @@ color: rgb(255, 30, 30);
 cursor: pointer;
 
 }
+.selected {
+  color: black !important;
+}
 #player .far:last-of-type, 
 #computer .far:last-of-type{
   margin-right: 0;
